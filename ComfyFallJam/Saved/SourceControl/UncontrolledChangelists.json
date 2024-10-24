@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Levels/ArtTest.umap",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/Animation/ANIM_Racoon_Idle_rig_rigAction_001.uasset",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/Materials/BASE_Mats/M_SolidColor.uasset",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/Rigs/SKM_Racoon_001.uasset",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/Rigs/SKM_Racoon_001_Skeleton.uasset",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/Rigs/SKM_Racoon_001_PhysicsAsset.uasset",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/Meshes/Env/SMGravestone_001.uasset",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/Meshes/Env/SMGravestone_002.uasset",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/Meshes/Env/SMGravestone_003.uasset",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/Meshes/Env/SMGravestone_004.uasset",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/Meshes/Env/SMGravestone_005.uasset",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/BluePrints/Env/BP_Gravestone_001.uasset",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/BluePrints/Env/BP_Gravestone_002.uasset",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/BluePrints/Env/BP_Gravestone_003.uasset",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/BluePrints/Env/BP_Gravestone_004.uasset",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/BluePrints/Env/BP_Gravestone_005.uasset",
+				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/Materials/MI_Grey_001.uasset"
+			]
+		}
+	]
+}
