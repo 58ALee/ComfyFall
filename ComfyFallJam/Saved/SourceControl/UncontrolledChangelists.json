@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Levels/ArtTest.umap",
 				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/Animation/ANIM_Racoon_Idle_rig_rigAction_001.uasset",
 				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/Materials/BASE_Mats/M_SolidColor.uasset",
@@ -22,6 +23,11 @@
 				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/BluePrints/Env/BP_Gravestone_004.uasset",
 				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/BluePrints/Env/BP_Gravestone_005.uasset",
 				"D:/UnrealProjects/CozyFallGameJam/ComfyFallJam/Content/Art/Materials/MI_Grey_001.uasset"
+=======
+				"C:/GameJams/ComfyFall/ComfyFallJam/Content/test.uasset",
+				"C:/GameJams/ComfyFall/ComfyFallJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/XI/GICSR8DY36FJDDRG1YZZZB.uasset",
+				"C:/GameJams/ComfyFall/ComfyFallJam/Content/test_Mat.uasset"
+>>>>>>> 8e05332 (project)
 			]
 		}
 	]
